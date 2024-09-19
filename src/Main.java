@@ -8,6 +8,6 @@ public class Main
 
         salesTax = purchasePrice * SALES_TAX_RATE;
 
-        System.out.println("The sales tax on a purchase of " + purchasePrice + "is $" + salesTax);
+        System.out.println("The sales tax on a purchase of " + purchasePrice + " is $" + salesTax);
     }
 }
